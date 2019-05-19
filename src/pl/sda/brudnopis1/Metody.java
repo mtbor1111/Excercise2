@@ -248,7 +248,7 @@ public class Metody {
 
 
     }
-                                                                                                                              //
+                                                                                                                              // Wyświetla tablice ze statkami
     private void WyswietlanieTablicyStatkow(int[][][] Tab1) {
 
         System.out.println();

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21dbeba8-5a45-4695-80c5-ddadb95ec31d" name="Default Changelist" comment="" />
+    <list default="true" id="21dbeba8-5a45-4695-80c5-ddadb95ec31d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="250" column="128" lean-forward="true" selection-start-line="250" selection-start-column="128" selection-end-line="250" selection-end-column="128" />
+            <state relative-caret-position="286">
+              <caret line="250" column="158" selection-start-line="250" selection-start-column="158" selection-end-line="250" selection-end-column="158" />
               <folding>
                 <element signature="method#Start#0;class#Metody#0" />
                 <element signature="method#Zasady#0;class#Metody#0" />
@@ -41,8 +44,6 @@
                 <element signature="method#PodawanieWspolrzednych#0;class#Metody#0" />
                 <element signature="method#PodawanieKierunku#0;class#Metody#0" />
                 <element signature="method#SprawdzaniePolPodStatek#0;class#Metody#0" />
-                <element signature="method#UstawianieStatku#0;class#Metody#0" />
-                <element signature="method#TworzenieStatku#0;class#Metody#0" />
               </folding>
             </state>
           </provider>
@@ -76,13 +77,16 @@
       <find>nachodzą</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/pl/sda/brudnopis1/Pierdoły.java" />
         <option value="$PROJECT_DIR$/../Statki1/Statki/src/pl/sda/statki/Main.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/brudnopis1/Main.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java" />
       </list>
     </option>
   </component>
@@ -91,6 +95,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -113,7 +118,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Statki1/Statki/src/pl/sda/statki/Main.java" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -184,7 +190,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37378114" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
@@ -216,13 +222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/brudnopis1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sda/brudnopis1/Pierdoły.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -230,10 +229,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/brudnopis1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sda/brudnopis1/Metody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="250" column="128" lean-forward="true" selection-start-line="250" selection-start-column="128" selection-end-line="250" selection-end-column="128" />
+        <state relative-caret-position="286">
+          <caret line="250" column="158" selection-start-line="250" selection-start-column="158" selection-end-line="250" selection-end-column="158" />
           <folding>
             <element signature="method#Start#0;class#Metody#0" />
             <element signature="method#Zasady#0;class#Metody#0" />
@@ -244,8 +250,6 @@
             <element signature="method#PodawanieWspolrzednych#0;class#Metody#0" />
             <element signature="method#PodawanieKierunku#0;class#Metody#0" />
             <element signature="method#SprawdzaniePolPodStatek#0;class#Metody#0" />
-            <element signature="method#UstawianieStatku#0;class#Metody#0" />
-            <element signature="method#TworzenieStatku#0;class#Metody#0" />
           </folding>
         </state>
       </provider>
